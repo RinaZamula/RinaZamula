@@ -1,16 +1,18 @@
-## Hi there 👋
+# Обо мне
 
-<!--
-**RinaZamula/RinaZamula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Примеры тестовой документации
+[Чек-листы](https://github.com/RinaZamula/check-lists)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Тест-кейсы](https://github.com/RinaZamula/test-cases)
+
+[Баг-репорты](https://github.com/RinaZamula/bug-reports)
+
+## Языки программирования и технологии
+![Static Badge](https://img.shields.io/badge/python-brightgreen)
+![Static Badge](https://img.shields.io/badge/java-orange)
+![Static Badge](https://img.shields.io/badge/jira-indigo)
+![Static Badge](https://img.shields.io/badge/mysql-blue)
+
+
+## Ссылки
