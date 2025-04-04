@@ -20,6 +20,6 @@
 ![Static Badge](https://img.shields.io/badge/java-orange)
 ![Static Badge](https://img.shields.io/badge/jira-indigo)
 ![Static Badge](https://img.shields.io/badge/mysql-blue)
-
+![Static Badge](https://img.shields.io/badge/Selenium%20WebDriver-red)
 
 ## Ссылки
